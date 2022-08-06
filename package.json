@@ -1,10 +1,13 @@
 {
   "name": "link-slot-gacor-terbaru-mudah-menang-freespin",
   "main": "./lib/link-slot-gacor-terbaru-mudah-menang-freespin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "link slot gacor terbaru mudah menang terbaru mudah menang freespi",
   "keywords": [
-    "slot online","slot gacor","judi slot","gampang menang"
+    "slot online",
+    "slot gacor",
+    "judi slot",
+    "gampang menang"
   ],
   "activationCommands": {
     "atom-workspace": "link-slot-gacor-terbaru-mudah-menang-freespin:toggle"
@@ -14,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
