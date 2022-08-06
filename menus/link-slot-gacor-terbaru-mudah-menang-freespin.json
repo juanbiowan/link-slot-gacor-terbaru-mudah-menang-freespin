@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle link-slot-gacor-terbaru-mudah-menang-freespin",
+        "command": "link-slot-gacor-terbaru-mudah-menang-freespin:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "link-slot-gacor-terbaru-mudah-menang-freespin",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "link-slot-gacor-terbaru-mudah-menang-freespin:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
